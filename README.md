@@ -1,1 +1,2 @@
 # R25EH074
+hello everyone my name is mohammed rayhanullah b i am studying in reva university with the course of ai with ds in my 3rd sem i am actually into gen ai with cloud development and my dream is to make an algorithm for which human can not think of well now there are many algoritms these algorithms are based on what human could do it is used as an algorithm for ai to do the work but i want to create an algorithm far more greater for which human could have never done but only ai can do the task
